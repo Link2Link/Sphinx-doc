@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'sphinx-doc'
+project = 'Link2Link-doc'
 copyright = '2023, Link2Link'
 author = 'Link2Link'
 
