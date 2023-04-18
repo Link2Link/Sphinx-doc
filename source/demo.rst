@@ -1,9 +1,9 @@
-This is a Title
+这是一个标题
 ===============
 That has a paragraph about a main subject and is set when the '='
 is at least the same length of the title itself.
 
-Subject Subtitle
+子标题1
 ----------------
 Subtitles are set with '-' and are required to have the same length
 of the subtitle itself, just like titles.
@@ -18,7 +18,7 @@ Or automatically numbered:
  #. Item 1
  #. Item 2
 
-Inline Markup
+子标题2
 -------------
 Words can have *emphasis in italics* or be **bold** and you can define
 code samples with back quotes, like when you talk about a command: ``sudo``
